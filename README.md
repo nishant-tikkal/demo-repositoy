@@ -1,2 +1,3 @@
 # demo-repositoy
-this my first git repositary
+this my first git repositary<br>
+my name is nishant tikkal
